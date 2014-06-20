@@ -15,7 +15,7 @@ Install the latest versions of the following applications:
 
 ##### Static Express Application (express) #####
 
-Host: rs.global-me.vm
+Host: express.vagrant.vm
 
 #### Application Logs ####
 
