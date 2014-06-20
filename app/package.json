@@ -1,0 +1,16 @@
+{
+    "name": "vagrant-nodejs-express",
+    "version": "0.1.1",
+    "description": "vagrant-nodejs-express base setup",
+    "dependencies": {
+        "express": "*"
+    },
+    "devDependencies": {
+    },
+    "contributors": [
+        {
+            "name": "Brad Cannon",
+            "email": "gadnium@gmail.com"
+        }
+    ]
+}
